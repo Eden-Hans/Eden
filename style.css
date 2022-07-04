@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+  padding-bottom:20px;
+  border-bottom:4px solid black;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
+ul {
+  padding-bottom:20px;
+  border-bottom:4px solid black;
+}
+a {
+  color:black;
+  text-decoration: none;
+}
+.center {
+  text-align: center;
+}
+.now {
+  text-decoration: underline;
+}
+#A {
+  border-top: 4px solid black;
+  border-top-style: double;
+  border-bottom: 4px solid black;
+  border-bottom-style: double;
+  display: grid;
+  grid-template-columns: 1fr
+}
+#B {
+  border-bottom:4px solid black;
+  border-bottom-style: double;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+#C {
+  border-right:4px solid black;
+  border-right-style: double;
+}
+#D {
+  border-bottom:4px solid black;
+  border-bottom-style: double;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
